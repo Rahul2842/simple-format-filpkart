@@ -1,0 +1,12 @@
+.flex-all-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn:hover {
+  padding: 3.5px 4px;
+  border: 2xp solid rgb(232, 23, 23);
+  border-radius: 5px;
+  cursor: pointer;
+}
